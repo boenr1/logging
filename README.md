@@ -1,7 +1,6 @@
 Requirements
 - Docker
 - Docker-Compose
-<<<<<<< HEAD
 
 Run:
-Execute elastic/docker-compose up for an up and running elasticsearch/kibana instance
+Execute elastic/docker-compose up for an up and running elasticsearch/kibana instance. You can send your logfiles trough beats via IP:9200
